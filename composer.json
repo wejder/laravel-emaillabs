@@ -1,5 +1,5 @@
 {
-    "name": "beryldev/laravel-emaillabs",
+    "name": "wejder/laravel-emaillabs",
     "description": "Simple package to integrate Laravel email with EmailLabs",
     "keywords": ["laravel", "emial", "labs", "emiallabs", "driver", "mail"],
     "homepage": "https://github.com/beryldev/laravel-emaillabs",
